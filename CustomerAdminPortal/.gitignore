@@ -1,0 +1,35 @@
+﻿
+# Build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local configuration and secrets
+appsettings.Development.json
+secrets.json
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Publish output
+publish/
+artifacts/
